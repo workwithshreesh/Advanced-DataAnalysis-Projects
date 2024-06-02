@@ -1,5 +1,7 @@
 # End-to-End Cricket Data Analysis Project
 
+<img width="502" alt="Dashboard" src="https://github.com/workwithshreesh/Advanced-DataAnalysis-Projects/assets/117170243/9d845906-b220-4876-bff1-0392587d2581">
+
 ## Overview
 
 Welcome to the **End-to-End Cricket Data Analysis** project! Developed based on the tutorials by Codebasics, this project encompasses the entire data analysis pipeline from data collection to insightful dashboard development. The project uses advanced data analysis techniques and tools such as SQL, Power BI, DAX, and Power Query to uncover valuable insights into cricket data, helping you understand trends, player performance, match outcomes, and more.
