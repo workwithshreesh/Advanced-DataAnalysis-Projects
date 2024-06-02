@@ -1,9 +1,4 @@
 # Hotel Revenue Analysis *<font size="5"> [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint] </font>*
-[Portfolio Link](https://yattavit.github.io/)
-
-[GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)  |  [Google Drive PowerPoint Link](https://drive.google.com/file/d/14XPS7B5Y_dRGcqi9oYD5UvCYjVFXmwuw/view?usp=sharing)  |  [GitHub Repository Link](https://github.com/YSPAttavit/Hotel-Revenue-Analysis-Project)
-
-The dataset used in this analysis can be downloaded [here](data/original_data/OriginalDataset_hotel_revenue_historical_full-2.xlsx). It contains various information about hotel booking from 2018 - 2020, along with additional tables containing market segment information and meal costs.
 
 ## Power BI Dashboard
 
